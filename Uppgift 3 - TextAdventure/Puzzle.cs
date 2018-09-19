@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Uppgift_3___TextAdventure
+namespace Uppgift3TextAdventure
 {
     class Puzzle
     {

@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{D869B873-66B4-4F6E-AF70-177B1D4AC561}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Uppgift_3___TextAdventure</RootNamespace>
-    <AssemblyName>Uppgift 3 - TextAdventure</AssemblyName>
+    <RootNamespace>Uppgift3TextAdventure</RootNamespace>
+    <AssemblyName>Uppgift 3-TextAdventure</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
